@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Add all the required libraries and versions used in the project
+numpy==1.22.0
+pandas==1.5.5
+scikit-learn==1.0.2
+joblib==1.1.1
+requests==2.27.1
+pickle==4.0
+tensorflow==2.6.0   
